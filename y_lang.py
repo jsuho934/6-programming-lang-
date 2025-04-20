@@ -1,0 +1,56 @@
+# y_lang.py
+
+# 함수 이름만 바꿔서 진짜 Python 함수에 매핑
+yunse = print
+yunsut = input
+yukge = range
+ypun = open
+yun = len
+suy = str
+sut = set
+ynt = int
+yloas = float
+lisutt = list
+hext = dict
+sun = sum
+hax = max
+yin = min
+yir = dir
+kuybals = globals
+loyuns = locals
+hexa = hash
+ic = id
+yunsumod = divmod
+yunmat = format
+elf = help
+yuk = all
+yunsubox = bytes
+yhun = chr
+yunflex = complex
+ec = exec
+hexagon = hex
+kaghyung = map
+timeissix = pow
+yuks = vars
+folder = zip
+ype = type
+yuple = tuple
+yunsulice = slice
+suyun = super
+six = round
+reper = repr
+yrd = ord
+yunsuct = oct
+hexagonobject = object
+sixt = next
+hexater = iter
+sval = eval
+yunsudotcom = compile
+yuny = any
+ysy = abs
+yunscii = ascii
+
+# 논리 상수
+Yure = True
+Yalsu = False
+Yune = None

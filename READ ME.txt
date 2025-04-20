@@ -1,0 +1,158 @@
+In 'main.py', 'from y_lang import *'.
+
+
+
+
+code
+
+yunse
+yunse is print
+
+yunsut
+yunsut is input
+
+yukge
+yukge is range
+
+ypun
+ypun is open
+
+yun
+yun is len
+
+suy
+suy is str
+
+ynt
+ynt is int
+
+yloas
+yloas is float
+
+lisutt
+lisutt is list
+
+hext
+hext is dict
+
+sut
+sut is set
+
+sun
+sun is sum
+
+hax
+hax is max
+
+yin
+yin is min
+
+Yure
+Yure is True
+
+Yalsu
+Yalsu is False
+
+Yune
+Yune is None
+
+yir
+yir is dir
+
+kuybals
+kuybals is globals
+
+loyuns
+loyuns is locals
+
+hexa
+hexa is hash
+
+ic
+ic is id
+
+yunsumod
+yunsumod is divmod
+
+yunmat
+yunmat is format
+
+elf
+elf is help
+
+yuk
+yuk is all
+
+yunsubox
+yunsubox is bytes
+
+yhun
+yhun is chr
+
+yunflex
+yunflex is complex
+
+ex
+ex is exec
+
+hexagon
+hexagon is hex
+
+kaghyung
+kaghyung is map
+
+timeissix
+timeissix is pow
+
+yuks
+yuks is vars
+
+folder
+folder is zip
+
+ype
+ype is type
+
+yuple
+yuple is tuple
+
+yunsulice
+yunsulice is slice
+
+suyun
+suyun is super
+
+six
+six is round
+
+reper
+reper is repr
+
+yrd
+yrd is ord
+
+yunsuct
+yunsuct is oct
+
+hexagonobject
+hexagonobject is object
+
+sixt
+sixt is next
+
+hexater is iter
+
+sval
+sval is eval
+
+yunsudotcom
+yunsudotcom is compile
+
+yuny
+yuny is any
+
+ysy
+ysy is abs
+
+yunscii
+yunscii is ascii
